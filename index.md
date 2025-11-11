@@ -23,6 +23,7 @@ For my Quarter 2 project, I would like to investigate **predictive modeling of c
 **3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**  
 
 One potential change I would make is to **integrate more advanced feature engineering and cross-validation** into the analysis process. 
+
 ---
 
 **4. What other techniques would you be interested in using in your project?**  
